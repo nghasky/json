@@ -1,0 +1,24 @@
+{
+  "nhanvienlist" : [
+    {"id": 1, "name" : "Ngan"},
+    {"id": 2, "name" : "Ngan2"},
+    {"id": 3, "name" : "Ngan3"},
+    {"id": 4, "name" : "Ngan4"},
+    {"id": 5, "name" : "Ngan5"},
+    {"id": 6, "name" : "Ngan6"},
+    {"id": 7, "name" : "Ngan7"},
+    {"id": 8, "name" : "Ngan8"},
+    {"id": 9, "name" : "Ngan9"},
+    {"id": 10, "name" : "Ngan10"},
+    {"id": 11, "name" : "Ngan11"},
+    {"id": 12, "name" : "Ngan12"},
+    {"id": 13, "name" : "Ngan13"},
+    {"id": 14, "name" : "Ngan14"},
+    {"id": 15, "name" : "Ngan15"},
+    {"id": 16, "name" : "Ngan16"},
+    {"id": 17, "name" : "Ngan17"},
+    {"id": 18, "name" : "Ngan18"},
+    {"id": 19, "name" : "Ngan19"},
+    {"id": 20, "name" : "Ngan20"}
+  ]
+}
